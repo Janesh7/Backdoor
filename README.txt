@@ -7,5 +7,8 @@ for converting backdoor.py to executable
 and run the exe file present in dist folder
 run help cmd in server for instructions and all the features
 
+*** INSTALL THE REQUIRED LIBS BEFORE RUNNING ***
+
+Either of the server or CommandNcontrol should be ran, command and control is for handling multiple targets and can be used to control the botnet
 PS: *** NOTE KEYLOGGER MUST BE PRESENT ON THE MACHINE *** and usually gets detected by antivirus
 
